@@ -6,6 +6,3 @@ collection: activities
 entries_layout: grid
 author_profile: true
 ---
-
-
-Welcome!

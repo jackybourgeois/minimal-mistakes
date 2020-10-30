@@ -1,5 +1,5 @@
 ---
-title: "AIEDAM CfP: Perspectives on Data-Enabled Design"
+title: "CfP: AIEDAM"
 excerpt: "Thematic Collection: Perspectives on Data-Enabled Design"
 header:
   teaser: /assets/images/aiedam.png
@@ -11,6 +11,8 @@ sidebar:
     nav:
         - url: "https://www.cambridge.org/core/journals/ai-edam/cfp-data-enabled-design"
           title: AIEDAM
+  - title: Important dates
+    text: "Submission deadline for full papers October 31st 2020<br>Notification & reviews due to authors December 20th 2020<br>Revised version submission deadline January 20 2021<br>Second round of reviews due February 28 2020<br>Final version due March 15 2021<br>Issue Appears Fall 2021"
 ---
 
 Together with Maaike Kleinsmann, we prepare a Special Issue on Data-Enabled Design for the journal Artificial Intelligence for Engineering Design, Analysis and Manufacturing (AI-EDAM).

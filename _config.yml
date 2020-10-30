@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jacky Bourgeois"
 description              : "Data-Centric Design"
-url                      : "https://jackybourgeois.github.io"
+url                      : "https://jackybourgeois.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : jackybourgeois/minimal-mistakes
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

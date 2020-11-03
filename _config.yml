@@ -251,6 +251,9 @@ collections:
   activities:
     output: true
     permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
